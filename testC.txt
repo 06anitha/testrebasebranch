@@ -1,3 +1,2 @@
-
 latest line
-new commit
+latest line
